@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.container-fluid{padding:0}
+section{
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.screenOne{background-color:rgba(0,0,0,0.7);}
+.screenTwo{background-color:rgba(0,0,0,0.6);}
+.screenThree{background-color:rgba(0,0,0,0.4);}
+.screenFour{background-color:rgba(0,0,0,0.3);}
+.screenFive{background-color:rgba(0,0,0,0.2);}
+.screenSix{background-color:rgba(0,0,0,0.1);}
+h1{text-align:center; color:#ff0000; margin:25% 0 0 0;}
